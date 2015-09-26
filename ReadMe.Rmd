@@ -5,7 +5,7 @@ The class project for [Getting and Cleaning Data](https://www.coursera.org/cours
 ####Instructions 
 1. There are three files in this repo: The R Script, The Code Book, and ReadMe file
 2. The Code Book and ReadMe file provide details on how to run the script
-3. Download the script: [run_analysis.R] 
+3. Download the script: [run_analysis.R](https://github.com/jgallina/Getting-and-Cleaning-Data/blob/master/run_analysis.R) 
 4. Run the script in R Studio 
 5. Output is a space separated text file called 'tidy.txt'
 5. The tidy.txt file may be reloaded into R Studio by running the last line of the script in `run_analysis.R`  
