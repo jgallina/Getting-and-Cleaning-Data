@@ -1,0 +1,34 @@
+---
+title: "Getting and Cleaning Data"
+output: html_document
+---
+  
+<br>  
+
+###Course Project 
+The class project for [Getting and Cleaning Data](https://www.coursera.org/course/getdata) was to read in [Smartphone Data](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and clean it to produce a tidy data. 
+
+<br> 
+
+####Instructions 
+1. Download [run_analysis.R] 
+2. Run the script
+3. Output is tidy.txt 
+
+<br> 
+
+####The following steps have been incorporated into the script
+
+* Creation of a `data` folder in working directory to store files 
+* Downloading project data in zip format, unzipping the files, and storing files in the `data` folder
+* Detecting if the `dplr` and `data.table` package are installed. The script will install these packages if they are not already installed. 
+
+<br> 
+
+### References and Further Reading   
+[Getting and Cleaning Data Webpage](https://www.coursera.org/course/getdata)  
+
+[Data for the course project](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  
+
+[Tidy Data by Hadley Wickham](www.jstatsoft.org/v59/i10/paper)
+
