@@ -1,10 +1,4 @@
 ---
-title: "Getting and Cleaning Data"
-output: html_document
----
-  
-<br>  
-
 ###Course Project 
 The class project for [Getting and Cleaning Data](https://www.coursera.org/course/getdata) was to read in [Smartphone Data](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and clean it to produce a tidy data. 
 
