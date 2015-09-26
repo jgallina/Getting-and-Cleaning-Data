@@ -3,9 +3,12 @@
 The class project for [Getting and Cleaning Data](https://www.coursera.org/course/getdata) was to read in [Smartphone Data](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and clean it to produce a tidy data. 
 
 ####Instructions 
-1. Download [run_analysis.R] 
-2. Run the script
-3. Output is tidy.txt 
+1. There are three files in this repo: The R Script, The Code Book, and ReadMe file
+2. The Code Book and ReadMe file provide details on how to run the script
+3. Download the script: [run_analysis.R] 
+4. Run the script in R Studio 
+5. Output is a space separated text file called 'tidy.txt'
+5. The tidy.txt file may be reloaded into R Studio by running the last line of the script in run_analysis.R  
 
 ####The following steps have been incorporated into the script
 
