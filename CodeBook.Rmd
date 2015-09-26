@@ -1,9 +1,6 @@
 ---
-title: "CodeBook"
-output: html_document
----
-  
-<br>  
+System Used: Mac
+R Studio Version: 0.99.441
 
 ###Input Data 
 Each person performed six activities:  
